@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">FloodFill</string>
+
+    <string name="fragment_flood_fill_animation_speed">Animation Speed:</string>
+
+    <string name="dialog_generate_image_title">Generate image</string>
+
+    <string name="view_enter_image_size_width">Width</string>
+    <string name="view_enter_image_size_height">Height</string>
+
+    <string name="content_description_flood_fill_image">Flood Fill Image</string>
+    <string name="content_description_flood_fill_resize_image">Resize Flood Fill Image</string>
+
+    <string name="common_symbols_multiplication_x">✕</string>
+    <string name="common_algorithm">Algorithm</string>
+    <string name="common_format_ms">%d ms</string>
+
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_change_size">Change size</string>
+    <string name="menu_change_animation_speed">Change animation speed</string>
+
+    <string name="flood_fill_algorithm_scan_line">Scan line</string>
+    <string name="flood_fill_algorithm_forest_fire">Forest fire</string>
+    <string name="flood_fill_algorithm_eight_directions">Eight directions</string>
+
+    <string-array name="flood_fill_algorithms">
+        <item>@string/flood_fill_algorithm_scan_line</item>
+        <item>@string/flood_fill_algorithm_forest_fire</item>
+        <item>@string/flood_fill_algorithm_eight_directions</item>
+    </string-array>
+
+</resources>
